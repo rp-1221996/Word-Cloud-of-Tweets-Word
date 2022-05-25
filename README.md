@@ -1,3 +1,4 @@
+![wordcloud](https://user-images.githubusercontent.com/54304418/170316403-11c49d45-9c58-42ad-bdff-c9f337cfc99b.jpg)
 # Word-Cloud-of-Tweets-Word
 1. Introduction 
 This assignment is based on social media analytics and here, we have done analyzing on Twitter tweets
